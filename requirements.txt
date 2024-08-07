@@ -1,0 +1,10 @@
+Flask
+Jinja2
+numpy
+pandas
+requests==2.23.0
+scikit-learn==0.23.1
+tensorflow
+pillow
+
+
