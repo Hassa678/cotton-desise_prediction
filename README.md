@@ -1,9 +1,3 @@
-It looks like your main application file is named `application.py` instead of `app.py`. I will update the `README.md` content to reflect this change.
-
-Here's the updated `README.md` file content:
-
----
-
 # Cotton Disease Prediction
 
 This project is a Flask web application that uses a trained deep learning model to predict the condition of cotton leaves. The model can classify images into four categories: diseased cotton leaf, diseased cotton plant, fresh cotton leaf, and fresh cotton plant.
